@@ -46,8 +46,6 @@ Email Me 👉 ✉️ **riteshkumar01722@gmail.com** For Collaboration/Project or
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ritesh-tech280&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=ritesh-tech280&icon=0&color=0)](https://visitcount.itsvg.in)
