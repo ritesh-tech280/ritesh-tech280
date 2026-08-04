@@ -25,13 +25,30 @@ Currently learning backend architecture, databases, and cloud deployment while e
 
 ---
 
-## 🚀 About Me
+## About Me
+
+<table>
+<tr>
+<td width="80%">
 
 - 🎓 BCA Student passionate about Full Stack Development
 - 💻 Building modern web applications using React & Next.js
 - 🌱 Currently learning Express.js, MongoDB and DevOps
 - 🤝 Open to internships and open-source collaborations
 - ⚡ Love solving real-world problems through code
+
+</td>
+
+<td width="20%" align="center">
+
+<img
+src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+width="280"
+alt="coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
