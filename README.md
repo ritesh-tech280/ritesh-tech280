@@ -78,13 +78,14 @@ alt="coding gif"/>
 
 ### 🛒 Apna Dukaan
 
-Modern E-commerce platform built with **Next.js, TypeScript and Firebase**
+Modern Shop management platform built with **Next.js, TypeScript and Firebase**
 
 **Features**
 
 - Authentication
-- Shopping Cart
-- Responsive UI
+- Customer & credit Management 
+- Invoice Management
+- WhatsApp Sharing
 - Firebase Backend
 
 🔗 Live Demo:
