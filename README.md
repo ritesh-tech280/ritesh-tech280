@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Kumar</h1>
 
 <h3 align="center">
-Full Stack Developer • React • Next.js • Firebase • Node.js
+Full Stack Developer • React • Next.js • Express.js • Node.js
 </h3>
 
 <p align="center">
@@ -33,7 +33,7 @@ Currently learning backend architecture, databases, and cloud deployment while e
 
 - 🎓 BCA Student passionate about Full Stack Development
 - 💻 Building modern web applications using React & Next.js
-- 🌱 Currently learning Express.js, MongoDB and DevOps
+- 🌱 Currently learning DevOps
 - 🤝 Open to internships and open-source collaborations
 - ⚡ Love solving real-world problems through code
 
