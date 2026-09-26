@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Kumar</h1>
 
 <h3 align="center">
-Full Stack Developer • React • Next.js • Express.js • Node.js
+Full Stack Developer • React.js • Next.js • Express.js • Node.js
 </h3>
 
 <p align="center">
