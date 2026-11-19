@@ -107,6 +107,31 @@ Features
 
 ---
 
+
+### 🛒 MKirana – Manoj Kirana Store
+
+Modern online kirana store and local delivery platform built with **Next.js, Firebase and Tailwind CSS**.
+
+**Features**
+
+- User Authentication (Email & Password)
+- Product & Category Management
+- Online Shopping & Cart Management
+- Order Placement & Management
+- Admin Dashboard
+- Landmark-Based Delivery Charges
+- Order Tracking & Management
+- Secure Order Verification with 6-Digit Delivery Code
+- Customer Profile Management
+- Responsive UI for Mobile & Desktop
+- Local Delivery for Aspur Hasan Ali (243407)
+
+🔗 **Live Demo:**  
+https://www.mkirana.app/
+
+---
+
+
 ## 📈 GitHub Stats
 
 <p align="center">
